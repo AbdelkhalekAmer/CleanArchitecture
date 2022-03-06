@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CleanArchitecture.BackgroundServices": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "local"
+      }
+    }
+  }
+}
